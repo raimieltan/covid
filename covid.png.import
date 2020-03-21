@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tdthumb.png-9d5d980ba0403d3c4fc22ae4216b6fd4.stex"
+path="res://.import/covid.png-c429b8fb79323a98186a8ed3bf4e5aa0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://tdthumb.png"
-dest_files=[ "res://.import/tdthumb.png-9d5d980ba0403d3c4fc22ae4216b6fd4.stex" ]
+source_file="res://covid.png"
+dest_files=[ "res://.import/covid.png-c429b8fb79323a98186a8ed3bf4e5aa0.stex" ]
 
 [params]
 

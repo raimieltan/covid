@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Map.png-0823e9f6d345efe07b57eedf27d429f0.stex"
+path="res://.import/Duterte.png-98f6fd59be96a5c7b92d899b3c37f8ba.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Map.png"
-dest_files=[ "res://.import/Map.png-0823e9f6d345efe07b57eedf27d429f0.stex" ]
+source_file="res://Duterte.png"
+dest_files=[ "res://.import/Duterte.png-98f6fd59be96a5c7b92d899b3c37f8ba.stex" ]
 
 [params]
 
